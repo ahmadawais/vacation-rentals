@@ -2,11 +2,11 @@
 [Work in progress!] Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features.
 
 ![](https://i.imgur.com/hV31YF3.png)
-![image](https://i.imgur.com/GIgNQKU.png)
 ![image](https://i.imgur.com/KLCnYOM.png)![image](https://i.imgur.com/0RP1qxJ.png)
-![image](https://i.imgur.com/I6f4Q2t.png)
+![image](https://i.imgur.com/GIgNQKU.png)
 ![image](https://i.imgur.com/LKDEPDE.png)
 ![image](https://i.imgur.com/edLpOMe.png)
+![image](https://i.imgur.com/Yk2OGF6.png)
 
 ## Architecture
 - `vr-core.php`: Main plugin file that includes `vrc.php`
