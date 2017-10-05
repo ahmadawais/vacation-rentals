@@ -1,0 +1,62 @@
+.rwmb-row:before,
+.rwmb-row:after {
+	content: " ";
+	display: table;
+}
+.rwmb-row:after {
+	clear: both;
+}
+.rwmb-row .rwmb-column {
+	margin-right: 5%;
+	float: left;
+}
+.rwmb-row .rwmb-column:last-of-type {
+	margin-right: 0;
+}
+.rwmb-field .rwmb-row {
+	display: block;
+}
+.rwmb-column-12 {
+	width: 100%;
+}
+.rwmb-column-11 {
+	width: 91.25%;
+}
+.rwmb-column-10 {
+	width: 82.5%;
+}
+.rwmb-column-9 {
+	width: 73.75%;
+}
+.rwmb-column-8 {
+	width: 65%;
+}
+.rwmb-column-7 {
+	width: 56.25%;
+}
+.rwmb-column-6 {
+	width: 47.5%;
+}
+.rwmb-column-5 {
+	width: 38.75%;
+}
+.rwmb-column-4 {
+	width: 30%;
+}
+.rwmb-column-3 {
+	width: 21.25%;
+}
+.rwmb-column-2 {
+	width: 12.5%;
+}
+.rwmb-column-1 {
+	width: 3.75%;
+}
+.rwmb-column .rwmb-label,
+.rwmb-column .rwmb-label ~ .rwmb-input {
+	display: block;
+	width: 100%;
+}
+.rwmb-column * {
+	max-width: 100%;
+}

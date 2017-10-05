@@ -1,0 +1,58 @@
+/* ----------------------------------------------------------------------------
+ * Admin related CSS
+ * ------------------------------------------------------------------------- */
+.vr-nav-tab-wrapper {
+	border-bottom: 1px solid #ccc;
+	margin       : 0;
+	padding      : 9px 15px 0 0;
+	line-height  : inherit;
+}
+
+.vr-heading-1 {
+    padding: 1rem 0 0 0.2rem;
+
+    span{
+    	font-size: 50%;
+    }
+}
+
+/* ----------------------------------------------------------------------------
+ * Booking!
+ * ------------------------------------------------------------------------- */
+
+.vr_booking {
+	display: table;
+	width: 100%;
+	padding: 1rem;
+	margin: 1rem 0 0;
+	// background: #f1f1f1;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+
+	a {
+		text-decoration: none;
+	    border-bottom: 0.5rem solid #f1f1f1;
+	}
+
+	.dashicon {
+		font-size: 1rem;
+	}
+}
+
+.vr_booking__img {
+	display: table-cell;
+	width: 20%;
+	vertical-align: middle;
+
+	img {
+		-webkit-border-radius: 500rem;
+		        border-radius: 500rem;
+	}
+}
+
+.vr_booking__data {
+	display: table-cell;
+	width: 80%;
+	vertical-align: middle;
+}

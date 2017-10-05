@@ -1,0 +1,1828 @@
+# Copyright (C) 2017 VRC
+# This file is distributed under the same license as the VRC package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VRC\n"
+"Report-Msgid-Bugs-To: http://WPTie.com/contact/\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ahmad Awais <support@WPTie.com>\n"
+"Language-Team: WPTie <support@WPTie.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: assets/admin/ocdi/ocdi-init.php:41, assets/admin/ocdi/ocdi-init.php:50
+msgid "After you import this demo, you will have to setup the menu, homepage, and theme."
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:41, assets/rental/rental-custom-columns.php:42
+msgid "Picture"
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:42, assets/member/view-edit-profile.php:134, assets/member/view-register.php:82, assets/member/view-register.php:85
+msgid "Email"
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:43
+msgid "Mobile"
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:57, assets/class-vr-admin-menu.php:127
+msgid "Agents"
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:58, assets/booking/booking-custom-columns.php:59, assets/partner/partner-custom-columns.php:56
+msgid "Added On"
+msgstr ""
+
+#: assets/agent/agent-custom-columns.php:89, assets/rental/rental-custom-columns.php:95
+msgid "No Featured Image."
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:39
+msgid "Contact Details"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:49, assets/member/class-profile-fields.php:38
+msgid "Job Title"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:56
+msgid "Email Address"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:57
+msgid "Agent related messages from contact form on rental details page, will be sent to this email address."
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:64, assets/member/class-profile-fields.php:39, assets/member/view-edit-profile.php:141
+msgid "Mobile Number"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:69, assets/member/class-profile-fields.php:40, assets/member/view-edit-profile.php:148
+msgid "Office Number"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:78, assets/member/class-profile-fields.php:41, assets/member/view-edit-profile.php:161
+msgid "Fax Number"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:85, assets/member/class-profile-fields.php:42
+msgid "Office Address"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:92
+msgid "Profile Summary (Optional)"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:99, assets/member/class-profile-fields.php:43, assets/member/view-edit-profile.php:168
+msgid "Facebook URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:106, assets/member/class-profile-fields.php:44, assets/member/view-edit-profile.php:175
+msgid "Twitter URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:113, assets/member/class-profile-fields.php:45, assets/member/view-edit-profile.php:188
+msgid "Google Plus URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:120, assets/member/class-profile-fields.php:46, assets/member/view-edit-profile.php:195
+msgid "LinkedIn URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:127
+msgid "Skype Username"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:128
+msgid "Example Value: myskypeID"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:135, assets/member/class-profile-fields.php:48
+msgid "Instagram URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:142
+msgid "Youtube URL"
+msgstr ""
+
+#: assets/agent/class-agent-meta-boxes.php:149
+msgid "Rental Properties Owner"
+msgstr ""
+
+#: assets/booking/booking-custom-columns.php:41
+msgid "Rental Property"
+msgstr ""
+
+#: assets/booking/booking-custom-columns.php:42, assets/booking/class-booking-meta-boxes.php:235, assets/rental/class-rental-meta-boxes.php:156
+msgid "Guests"
+msgstr ""
+
+#: assets/booking/booking-custom-columns.php:43, assets/booking/class-booking-meta-boxes.php:203
+msgid "Checkin Date"
+msgstr ""
+
+#: assets/booking/booking-custom-columns.php:44, assets/booking/class-booking-meta-boxes.php:219
+msgid "Checkout Date"
+msgstr ""
+
+#: assets/booking/booking-custom-columns.php:58, assets/booking/class-booking-meta-boxes.php:154, assets/booking/cpt-booking.php:32
+msgid "Booking"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:45
+msgid "Booked Rental Property"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:164
+msgid "Confirmation:"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:167
+msgid "Pending."
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:168
+msgid "Confirmed."
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:178
+msgid "The Rental"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:179
+msgid "Selected Rental."
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:180
+msgid "This value cannot be changed once it is set either manually or automatically. <a target=\"_blank\" href=\"/wp-admin/post-new.php?post_type=vr_rental\">Add a new RENTAL!</a>"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:193, assets/rental/class-rental-meta-boxes.php:75
+msgid "Booking Information"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:207, assets/booking/class-booking-meta-boxes.php:223
+msgid "yy-mm-dd"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:208, assets/booking/class-booking-meta-boxes.php:224
+msgid " (Year-Month-Day) "
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:236, assets/booking/class-booking-meta-boxes.php:246, assets/rental/class-rental-meta-boxes.php:143, assets/rental/class-rental-meta-boxes.php:157
+msgid "Example Value: 2"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:245, assets/rental/class-rental-meta-boxes.php:170
+msgid "Rental ID"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:255
+msgid "Name"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:256
+msgid "Booked By, E.g. John"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:265
+msgid "Email ID"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:266
+msgid "Example Value: john@gmail.com"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:275, assets/rental/class-rental-meta-boxes.php:509
+msgid "Private Note"
+msgstr ""
+
+#: assets/booking/class-booking-meta-boxes.php:276
+msgid "Keep a private note about this rental booking. This field will not be displayed anywhere else."
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:84, assets/booking/class-submit-booking.php:96, assets/booking/class-submit-booking.php:108, assets/booking/class-submit-booking.php:121, assets/booking/class-submit-booking.php:190
+msgid "ERROR!"
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:85
+msgid "Check In date cannot be empty"
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:97
+msgid "Check out date cannot be empty"
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:109
+msgid "Guests cannot be empty"
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:122
+msgid "Rental ID cannot be empty. Refresh the page and try again."
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:159
+msgid "Submited! <br/> Your booking is now awaiting confirmation!"
+msgstr ""
+
+#: assets/booking/class-submit-booking.php:191, assets/member/class-edit-profile.php:303, assets/member/class-edit-profile.php:331, assets/member/class-submit-post.php:128, assets/member/class-submit-post.php:156, assets/rental/frontend/logic-edit-rental.php:40
+msgid "Security check failed!"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:29
+msgctxt "Post Type General Name"
+msgid "Bookings"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:30
+msgctxt "Post Type Singular Name"
+msgid "Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:31, assets/booking/cpt-booking.php:34, assets/booking/cpt-booking.php:56, assets/class-vr-admin-menu.php:120
+msgid "Bookings"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:33
+msgid "Parent Booking:"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:35
+msgid "Add New Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:36, assets/rental/cpt-rental.php:36
+msgid "Add New"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:37
+msgid "New Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:38
+msgid "Edit Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:39
+msgid "Update Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:40
+msgid "View Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:41
+msgid "Search Booking"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:42, assets/rental/cpt-rental.php:42
+msgid "Not found"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:43, assets/rental/cpt-rental.php:43
+msgid "Not found in Trash"
+msgstr ""
+
+#: assets/booking/cpt-booking.php:47, assets/booking/cpt-booking.php:55
+msgid "booking"
+msgstr ""
+
+#: assets/booking/view-submit-booking.php:47
+msgid "Check In:"
+msgstr ""
+
+#: assets/booking/view-submit-booking.php:64
+msgid "Check Out:"
+msgstr ""
+
+#: assets/booking/view-submit-booking.php:79
+msgid "Guests:"
+msgstr ""
+
+#: assets/booking/view-submit-booking.php:98
+msgid "Submit Booking"
+msgstr ""
+
+#: assets/class-scripts.php:110, assets/class-scripts.php:140, assets/class-scripts.php:160
+msgid "Valid file formats."
+msgstr ""
+
+#: assets/class-scripts.php:187
+msgid "Valid file formats"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:79, assets/class-vr-admin-menu.php:80, assets/class-vr-admin-menu.php:251
+msgid "Vacation Rentals"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:92, assets/rental/cpt-rental.php:35
+msgid "Add New Rental"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:93
+msgid "→  Add New"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:99, assets/class-vr-admin-menu.php:191
+msgid "Destinations"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:100
+msgid "⇲  Destinations"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:106, assets/class-vr-admin-menu.php:205, assets/rental/ct-rental-type.php:37, assets/rental/rental-custom-columns.php:62
+msgid "Types"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:107
+msgid "♆  Types"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:113, assets/class-vr-admin-menu.php:198, assets/rental/ct-rental-feature.php:36, assets/rental/frontend/view-submit-rental.php:276, assets/rental/rental-custom-columns.php:64
+msgid "Features"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:114
+msgid "⦿  Features"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:121
+msgid "⎃  Bookings"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:128
+msgid "⑆  Agents"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:135
+msgid "Partners"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:136
+msgid "⌭  Partners"
+msgstr ""
+
+#: assets/class-vr-admin-menu.php:184, assets/rental/cpt-rental.php:34, assets/rental/cpt-rental.php:56, assets/rental/rental-custom-columns.php:61
+msgid "Rentals"
+msgstr ""
+
+#: assets/customizer/section/vr_section_member.php:33
+msgid "Membership"
+msgstr ""
+
+#: assets/customizer/section/vr_section_member.php:34
+msgid "Membership related settings"
+msgstr ""
+
+#: assets/customizer/section/vr_section_member.php:64
+msgid "Select the .$name. page"
+msgstr ""
+
+#: assets/customizer/section/vr_section_member.php:65
+msgid "Add a new page with `.$name. VR` page template and select it here."
+msgstr ""
+
+#: assets/favorite/class-favorite.php:120
+msgid "Added to Favorites"
+msgstr ""
+
+#: assets/favorite/class-favorite.php:126
+msgid "Failed"
+msgstr ""
+
+#: assets/favorite/class-favorite.php:136
+msgid "Invalid parameters"
+msgstr ""
+
+#: assets/favorite/class-favorite.php:168
+msgid "Failed to remove!"
+msgstr ""
+
+#: assets/favorite/class-favorite.php:177
+msgid "Invalid parameters!"
+msgstr ""
+
+#: assets/member/class-edit-profile.php:254
+msgid "Provided email address is invalid."
+msgstr ""
+
+#: assets/member/class-edit-profile.php:260
+msgid "Provided email is already in use by another user. Try a different one."
+msgstr ""
+
+#: assets/member/class-edit-profile.php:284
+msgid "The passwords you entered do not match.  Your password is not updated."
+msgstr ""
+
+#: assets/member/class-edit-profile.php:296
+msgid "Submitted! <br/> Your profile information was successfully updated!"
+msgstr ""
+
+#: assets/member/class-edit-profile.php:384, assets/member/class-submit-post.php:209
+msgid "Image upload failed!"
+msgstr ""
+
+#: assets/member/class-login.php:67, assets/member/view-login.php:91, assets/member/view-register.php:130, assets/member/view-reset.php:106
+msgid "Login"
+msgstr ""
+
+#: assets/member/class-login.php:97
+msgid "Wrong username or password."
+msgstr ""
+
+#: assets/member/class-login.php:103
+msgid "successful. Redirecting..."
+msgstr ""
+
+#: assets/member/class-profile-fields.php:47
+msgid "Pinterest URL"
+msgstr ""
+
+#: assets/member/class-register.php:86
+msgid "This username already exists."
+msgstr ""
+
+#: assets/member/class-register.php:91
+msgid "This email is already registered."
+msgstr ""
+
+#: assets/member/class-register.php:103
+msgid "Registration"
+msgstr ""
+
+#: assets/member/class-reset.php:70
+msgid "Provide a valid username or email address!"
+msgstr ""
+
+#: assets/member/class-reset.php:76
+msgid "No user found for given email!"
+msgstr ""
+
+#: assets/member/class-reset.php:82
+msgid "No user found for given username!"
+msgstr ""
+
+#: assets/member/class-reset.php:85
+msgid "Invalid username or email!"
+msgstr ""
+
+#: assets/member/class-reset.php:117
+msgid "Your New Password For %s"
+msgstr ""
+
+#: assets/member/class-reset.php:118
+msgid "From: %s <%s>"
+msgstr ""
+
+#: assets/member/class-reset.php:119
+msgid "Your new password is: %s"
+msgstr ""
+
+#: assets/member/class-reset.php:129
+msgid "Check your email for new password"
+msgstr ""
+
+#: assets/member/class-reset.php:131
+msgid "Failed to send you new password email!"
+msgstr ""
+
+#: assets/member/class-reset.php:135
+msgid "Oops! Something went wrong while resetting your password!"
+msgstr ""
+
+#: assets/member/class-submit-post.php:76
+msgid "Post Title is required!"
+msgstr ""
+
+#: assets/member/class-submit-post.php:96
+msgid "Yay! Your post was successfully published!"
+msgstr ""
+
+#: assets/member/class-submit-post.php:106
+msgid "Yay! Your post was successfully submitted! Awaiting moderation!"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:64
+msgid "Profile image should have minimum width and height of 220px."
+msgstr ""
+
+#: assets/member/view-edit-profile.php:65
+msgid "Make sure to save changes after uploading the new image."
+msgstr ""
+
+#: assets/member/view-edit-profile.php:70
+msgid "Change"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:77
+msgid "Remove"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:96
+msgid "Biographical Information"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:108
+msgid "First Name"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:115
+msgid "Last Name"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:122
+msgid "Display Name"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:210, assets/member/view-login.php:84, assets/member/view-login.php:87, assets/member/view-register.php:89, assets/member/view-register.php:92
+msgid "Password"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:211
+msgid "( Fill it only when you want to change )"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:219, assets/member/view-register.php:96, assets/member/view-register.php:99
+msgid "Confirm Password"
+msgstr ""
+
+#: assets/member/view-edit-profile.php:241
+msgid "Save Changes"
+msgstr ""
+
+#: assets/member/view-login.php:52, assets/member/view-register.php:52, assets/member/view-reset.php:52
+msgid "Hey, .$name.!"
+msgstr ""
+
+#: assets/member/view-login.php:56, assets/member/view-register.php:56, assets/member/view-reset.php:56
+msgid "You are already logged in. "
+msgstr ""
+
+#: assets/member/view-login.php:57, assets/member/view-register.php:57, assets/member/view-reset.php:57
+msgid "Go to the <a href=\"/\">Homepage!</a> or <a href=\".wp_logout_urlhome_url.\">Logout!</a>"
+msgstr ""
+
+#: assets/member/view-login.php:61
+msgid "Edit Your Profile!"
+msgstr ""
+
+#: assets/member/view-login.php:77, assets/member/view-login.php:80, assets/member/view-register.php:75, assets/member/view-register.php:78
+msgid "Username"
+msgstr ""
+
+#: assets/member/view-login.php:79
+msgid "* Provide your username"
+msgstr ""
+
+#: assets/member/view-login.php:86, assets/member/view-register.php:91
+msgid "* Provide your password"
+msgstr ""
+
+#: assets/member/view-login.php:125
+msgid "Register Now"
+msgstr ""
+
+#: assets/member/view-login.php:134, assets/member/view-register.php:138
+msgid "Forgot Password?"
+msgstr ""
+
+#: assets/member/view-register.php:77
+msgid "* Please enter a valid username."
+msgstr ""
+
+#: assets/member/view-register.php:84
+msgid "* Please provide valid email address!"
+msgstr ""
+
+#: assets/member/view-register.php:98
+msgid "* Password should be same as above"
+msgstr ""
+
+#: assets/member/view-register.php:103, assets/member/view-reset.php:115
+msgid "Register"
+msgstr ""
+
+#: assets/member/view-reset.php:76, assets/member/view-reset.php:79
+msgid "Username or Email"
+msgstr ""
+
+#: assets/member/view-reset.php:78
+msgid "* Provide a valid username or email!"
+msgstr ""
+
+#: assets/member/view-reset.php:83
+msgid "Reset Password"
+msgstr ""
+
+#: assets/member/view-submit-post.php:44
+msgid "Post Title"
+msgstr ""
+
+#: assets/member/view-submit-post.php:61
+msgid "Post Content"
+msgstr ""
+
+#: assets/member/view-submit-post.php:87
+msgid "Submit Post"
+msgstr ""
+
+#: assets/meta-boxes/class-meta-boxes.php:53
+msgid "Meta Box plugin has been deactivated!"
+msgstr ""
+
+#: assets/meta-boxes/class-meta-boxes.php:54
+msgid "This plugin is a part of VRCore now."
+msgstr ""
+
+#: assets/meta-boxes/class-meta-boxes.php:55
+msgid "So, You should safely remove it from your plugins."
+msgstr ""
+
+#: assets/partner/class-partner-meta-boxes.php:42
+msgid "Partner Information"
+msgstr ""
+
+#: assets/partner/class-partner-meta-boxes.php:51
+msgid "Website URL"
+msgstr ""
+
+#: assets/partner/class-partner-meta-boxes.php:52
+msgid "Provide partner website URL. Example Value: http://Google.com (Must have http://)"
+msgstr ""
+
+#: assets/partner/partner-custom-columns.php:40
+msgid "Logo"
+msgstr ""
+
+#: assets/partner/partner-custom-columns.php:41
+msgid "URL"
+msgstr ""
+
+#: assets/partner/partner-custom-columns.php:55
+msgid "Partner"
+msgstr ""
+
+#: assets/plugin/category-images/customizer/section/cat-term.php:34
+msgid "Category/Term"
+msgstr ""
+
+#: assets/plugin/category-images/customizer/section/cat-term.php:35
+msgid "Category or Term related settings"
+msgstr ""
+
+#: assets/plugin/category-images/customizer/section/cat-term.php:53
+msgid "Upload a default image for category/term!"
+msgstr ""
+
+#: assets/rental/class-destination-meta-boxes.php:41
+msgid "Destination Extra Settings"
+msgstr ""
+
+#: assets/rental/class-destination-meta-boxes.php:52
+msgid "Order"
+msgstr ""
+
+#: assets/rental/class-destination-meta-boxes.php:53
+msgid "Homepage Destination Order. Lower value has more priority i.e. 10 order will get displayed before 20 order."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:42
+msgid "Rental Details"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:54
+msgid "Basic Information"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:58
+msgid "Gallery Images"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:62
+msgid "Rental Video"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:67
+msgid "Additional Amenities"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:71
+msgid "Agent Information"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:79
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:99
+msgid "Rent Price:  (Digits Only)"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:100
+msgid "Example Value: 450"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:114
+msgid "Price Postfix"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:115
+msgid "Example Value: Per Night"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:128, assets/rental/frontend/view-submit-rental.php:122
+msgid "Bedrooms"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:129
+msgid "Example Value: 4"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:142, assets/rental/frontend/view-submit-rental.php:134
+msgid "Bathrooms"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:171
+msgid "Optional: It will help you search a rental directly."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:185
+msgid "Rental Address"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:186
+msgid "Leaving it empty will hide the google map on rental detail page."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:199
+msgid "Rental Location at Google Map*"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:200
+msgid "Drag the google map marker to point your rental location. You can also use the address field above to search for your rental."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:224
+msgid "Rental Gallery/Slider Images"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:225
+msgid "Recommended image size is at least 1440px x 725px (width x height)."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:245, assets/rental/frontend/view-submit-rental.php:193
+msgid "Virtual Tour Video URL"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:246
+msgid "Provide virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:259
+msgid "Virtual Tour Video Image"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:260
+msgid "Recommended image size is at least 730px x 400px (width x height)."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:328
+msgid "What should be displayed in the Agent Information box?"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:332
+msgid "Author of this rental."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:333
+msgid "Agent Information. ( Select the agent below )"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:334
+msgid "Nothing. ( Hide information box )"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:355
+msgid "Agent"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:370
+msgid "Select the Agent"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:371
+msgid "To display the list of agents, you should add agents here. <a target=\"_blank\" href=\"/wp-admin/post-new.php?post_type=vr_agent\">Add a new AGENT!</a>"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:372
+msgid "Select the agent"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:397
+msgid "Is this property booked?"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:401
+msgid "Not Booked."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:402
+msgid "Booked. (Select the booking below)"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:415
+msgid "Select the Booking "
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:416
+msgid "Select only if the rental is booked."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:431
+msgid "Select the Booking"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:432
+msgid "To display the list of bookings, you should have some bookings added. <a target=\"_blank\" href=\"/wp-admin/post-new.php?post_type=vr_booking\">Add a new BOOKING!</a>"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:433
+msgid "Select a booking"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:459
+msgid "Do you want to add this rental in the Homepage Slider?"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:460, assets/rental/class-rental-meta-boxes.php:479
+msgid "Remember you need set a `Featured Image` for this rental from the right sidebar."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:464, assets/rental/class-rental-meta-boxes.php:483
+msgid "Yes "
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:465, assets/rental/class-rental-meta-boxes.php:484
+msgid "No"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:478
+msgid "Mark this rental as featured?"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:496
+msgid "Attachments"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:497
+msgid "You can attach PDF files, Map images OR other documents to provide further details related to this rental property."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:510
+msgid "Keep a private note about this rental rental. This field will not be displayed anywhere else."
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:523
+msgid "Bookings for this Rental"
+msgstr ""
+
+#: assets/rental/class-rental-meta-boxes.php:553
+msgid "All the bookings added for this rental are displayed below (Both confirmed and not confirmed bookings). "
+msgstr ""
+
+#: assets/rental/cpt-rental.php:29
+msgctxt "Post Type General Name"
+msgid "Rentals"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:30
+msgctxt "Post Type Singular Name"
+msgid "Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:31
+msgid "1 Rentals"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:32
+msgid "Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:33
+msgid "Parent Rental:"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:37
+msgid "New Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:38
+msgid "Edit Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:39
+msgid "Update Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:40
+msgid "View Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:41
+msgid "Search Rental"
+msgstr ""
+
+#: assets/rental/cpt-rental.php:47, assets/rental/cpt-rental.php:55
+msgid "rental"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:31
+msgctxt "Taxonomy General Name"
+msgid "Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:32
+msgctxt "Taxonomy Singular Name"
+msgid "Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:33, assets/rental/frontend/view-submit-rental.php:94, assets/rental/rental-custom-columns.php:63, assets/template/rental/list/class-vr-rental-list-meta.php:250
+msgid "Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:34
+msgid "All Rental Destinations"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:35
+msgid "Parent Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:36
+msgid "Parent Rental Destination:"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:37
+msgid "New Rental Destination Name"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:38
+msgid "Add New Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:39
+msgid "Edit Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:40
+msgid "Update Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:41
+msgid "View Rental Destination"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:42
+msgid "Separate Rental Destinations with commas"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:43
+msgid "Add or remove Rental Destinations"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:44, assets/rental/ct-rental-feature.php:47, assets/rental/ct-rental-type.php:48
+msgid "Choose from the most used"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:45
+msgid "Popular Rental Destinations"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:46
+msgid "Search Rental Destinations"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:47, assets/rental/ct-rental-feature.php:50, assets/rental/ct-rental-type.php:51
+msgid "Not Found"
+msgstr ""
+
+#: assets/rental/ct-rental-destination.php:51
+msgid "property-city"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:34
+msgctxt "Taxonomy General Name"
+msgid "Rental Features"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:35
+msgctxt "Taxonomy Singular Name"
+msgid "Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:37
+msgid "All Rental Features"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:38
+msgid "Parent Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:39
+msgid "Parent Rental Feature:"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:40
+msgid "New Rental Feature Name"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:41
+msgid "Add New Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:42
+msgid "Edit Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:43
+msgid "Update Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:44
+msgid "View Rental Feature"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:45
+msgid "Separate Rental Features with commas"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:46
+msgid "Add or remove Rental Features"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:48
+msgid "Popular Rental Features"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:49
+msgid "Search Rental Features"
+msgstr ""
+
+#: assets/rental/ct-rental-feature.php:54
+msgid "rental-feature"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:35
+msgctxt "Taxonomy General Name"
+msgid "Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:36
+msgctxt "Taxonomy Singular Name"
+msgid "Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:38
+msgid "All Rental Types"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:39
+msgid "Parent Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:40
+msgid "Parent Rental Type:"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:41
+msgid "New Rental Type Name"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:42
+msgid "Add New Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:43
+msgid "Edit Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:44
+msgid "Update Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:45
+msgid "View Rental Type"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:46
+msgid "Separate Rental Types with commas"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:47
+msgid "Add or remove Rental Types"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:49
+msgid "Popular Rental Types"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:50
+msgid "Search Rental Types"
+msgstr ""
+
+#: assets/rental/ct-rental-type.php:55
+msgid "rental-type"
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:40
+msgid "Oops"
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:46
+msgid "Submitted"
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:46
+msgid "Property successfully submitted."
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:50
+msgid "Updated"
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:50
+msgid "Property updated successfully."
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:85
+msgid "Login Required"
+msgstr ""
+
+#: assets/rental/frontend/logic-edit-rental.php:85
+msgid "You need to login to submit a property!"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:26
+msgid "Rental Title"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:27
+msgid "* Please provide property title!"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:31
+msgid "Property Description"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:40
+msgid "Address"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:47
+msgid "* Please provide a property address!"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:52
+msgid "Find Address"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:73, assets/template/rental/list/class-vr-rental-list-meta.php:271
+msgid "Type"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:75, assets/rental/frontend/view-submit-rental.php:96, assets/rental/frontend/view-submit-rental.php:234
+msgid "None"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:127, assets/rental/frontend/view-submit-rental.php:135, assets/rental/frontend/view-submit-rental.php:142, assets/rental/frontend/view-submit-rental.php:154, assets/rental/frontend/view-submit-rental.php:168
+msgid "* Only numbers allowed!"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:141
+msgid "Garages"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:153
+msgid "Sale OR Rent Price"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:160
+msgid "Price Postfix Text"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:167
+msgid "Area"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:179
+msgid "Area Postfix Text"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:180
+msgid "SqFt"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:186, assets/rental/frontend/view-submit-rental.php:187
+msgid "Property ID"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:209
+msgid "Drag and drop images here"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:211
+msgid "OR"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:213
+msgid "Select Images"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:218
+msgid "An image should have minimum width of 850px and minimum height of 600px."
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:219
+msgid "You can mark an image as featured by clicking the star icon, Otherwise first image will be considered featured image."
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:228
+msgid "What to display in agent information box ?"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:236
+msgid "( No information will be displayed )"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:242
+msgid "My Profile Information"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:245
+msgid "( Edit Profile Information )"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:252
+msgid "Display Agent Information"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:264
+msgid "Mark this property as featured property"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:306
+msgid "Additional Details"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:310
+msgid "Title"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:311
+msgid "Value"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:359
+msgid "Message to the Reviewer"
+msgstr ""
+
+#: assets/rental/frontend/view-submit-rental.php:369
+msgid "Submit Property"
+msgstr ""
+
+#: assets/rental/rental-custom-columns.php:43
+msgid "Custom ID"
+msgstr ""
+
+#: assets/rental/rental-custom-columns.php:44
+msgid "Price"
+msgstr ""
+
+#: assets/rental/rental-custom-columns.php:108
+msgid "ID Not Available."
+msgstr ""
+
+#: assets/rental/rental-custom-columns.php:123
+msgid "Price Not Available."
+msgstr ""
+
+#: assets/settings/class-vr-settings.php:689
+msgid "Settings"
+msgstr ""
+
+#: assets/settings/class-vr-settings.php:690
+msgid "⏣  Settings"
+msgstr ""
+
+#: assets/settings/settings-init.php:56
+msgid "General Settings"
+msgstr ""
+
+#: assets/settings/settings-init.php:57
+msgid "General settings related to Vacation Rentals plugin."
+msgstr ""
+
+#: assets/settings/settings-init.php:67
+msgid "Currency Symbol"
+msgstr ""
+
+#: assets/settings/settings-init.php:68
+msgid "Example: $"
+msgstr ""
+
+#: assets/settings/settings-init.php:79
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: assets/settings/settings-init.php:80
+msgid "Default: Before"
+msgstr ""
+
+#: assets/settings/settings-init.php:96
+msgid "Thousand Separator"
+msgstr ""
+
+#: assets/settings/settings-init.php:97
+msgid "Default: , (Comma) | Example: $100,000"
+msgstr ""
+
+#: assets/settings/settings-init.php:108
+msgid "Decimal Separator"
+msgstr ""
+
+#: assets/settings/settings-init.php:109
+msgid "Default: . (Period) | Example: $100.00"
+msgstr ""
+
+#: assets/settings/settings-init.php:120
+msgid "Number of Decimals"
+msgstr ""
+
+#: assets/settings/settings-init.php:121
+msgid "Default: 0 | Leave as is if you don't know what it is."
+msgstr ""
+
+#: assets/settings/settings-init.php:132
+msgid "Empty Price Text"
+msgstr ""
+
+#: assets/settings/settings-init.php:133
+msgid "Example: On Call | Will be displayed if no price is present."
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:48
+msgid "Enable booking form?"
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:51, assets/template/homepage/class-bookingform-fields.php:76, assets/template/homepage/class-cta-fields.php:46, assets/template/homepage/class-destination-fields.php:45, assets/template/homepage/class-fcta-fields.php:46, assets/template/homepage/class-feature-fields.php:46, assets/template/homepage/class-frentals-fields.php:46, assets/template/homepage/class-steps-fields.php:46, assets/template/homepage/class-steps-fields.php:61, assets/template/homepage/class-tandn-fields.php:46
+msgid "Yes."
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:52, assets/template/homepage/class-bookingform-fields.php:77, assets/template/homepage/class-cta-fields.php:47, assets/template/homepage/class-destination-fields.php:46, assets/template/homepage/class-fcta-fields.php:47, assets/template/homepage/class-feature-fields.php:47, assets/template/homepage/class-frentals-fields.php:47, assets/template/homepage/class-steps-fields.php:47, assets/template/homepage/class-steps-fields.php:62, assets/template/homepage/class-tandn-fields.php:47
+msgid "No."
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:62
+msgid "Booking Form Title"
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:73
+msgid "Enable search with Checkin/Checkout Date?"
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:87
+msgid "Search Button Text"
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:100, assets/template/homepage/class-bookingform-fields.php:103
+msgid "Select Rental Search Page"
+msgstr ""
+
+#: assets/template/homepage/class-bookingform-fields.php:101
+msgid "Select Rental Search Page that you have published with `Rental Search VR` page template."
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:43
+msgid "Enable CTA section?"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:57
+msgid "CTA Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:73
+msgid "CTA Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:82
+msgid "CTA Section Button Text"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:93
+msgid "CTA Section Button URL"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:104
+msgid "CTA Section Background Image"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:105
+msgid "Make sure the image is not too small and not too big. Recommended size is 1920px x 450px (Width x Height)"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:117
+msgid "CTA Section Icon Image"
+msgstr ""
+
+#: assets/template/homepage/class-cta-fields.php:118
+msgid "Make sure it is not too big. E.g. Recommended size is 50px x 50px (Width x Height)"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:42
+msgid "Enable Destination section?"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:56
+msgid "Destination Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:57
+msgid "Example Value: Popular Destinations"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:58
+msgid "Popular Destinations"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:72
+msgid "Destination Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-destination-fields.php:81
+msgid "Select Popular Destinations"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:43
+msgid "Enable Footer CTA section?"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:57
+msgid "Footer CTA Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:73
+msgid "Footer CTA Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:82
+msgid "Footer CTA Section Button Text"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:93
+msgid "Footer CTA Section Button URL"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:104
+msgid "Footer CTA Section Background Image"
+msgstr ""
+
+#: assets/template/homepage/class-fcta-fields.php:105
+msgid "Make sure the image is not too small and not too big."
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:43
+msgid "Enable Feature section?"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:57
+msgid "Feature Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:73
+msgid "Feature Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:92
+msgid "Feature Icon"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:103
+msgid "Feature Name"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:112
+msgid "Feature Descriptoin"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:124
+msgid "Feature Section Button Text"
+msgstr ""
+
+#: assets/template/homepage/class-feature-fields.php:135
+msgid "Feature Section Button URL"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:43
+msgid "Enable Fetured Rentals section?"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:57
+msgid "Featured Rentals Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:73
+msgid "Featured Rentals Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:81
+msgid "Select Number of Featured Rentals to be displayed"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:84
+msgid "2 - Two Featured Rentals"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:85
+msgid "4 - Four Featured Rentals"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:86
+msgid "6 - Six Featured Rentals"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:87
+msgid "8 - Eight Featured Rentals"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:88
+msgid "10 - Ten Featured Rentals"
+msgstr ""
+
+#: assets/template/homepage/class-frentals-fields.php:93
+msgid "Select # of rentals"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:195
+msgid "Page Settings"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:201
+msgid "Booking Form"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:205
+msgid "Feature Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:209
+msgid "CTA Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:213
+msgid "Destination Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:217
+msgid "Steps Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:221
+msgid "Featured Rentals Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:225
+msgid "Testimonial & News Section"
+msgstr ""
+
+#: assets/template/homepage/class-homepage-meta-boxes.php:229
+msgid "Footer CTA Section"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:43
+msgid "Enable Steps section?"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:57
+msgid "Enable Steps section background (arrow passing through the steps)?"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:58
+msgid "Looks good if you have 3 steps only!"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:72
+msgid "Steps Section Title"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:88
+msgid "Steps Section Descripton"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:107
+msgid "Step Icon"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:118
+msgid "Step Name"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:127
+msgid "Step Descriptoin"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:139
+msgid "Steps Section Button Text"
+msgstr ""
+
+#: assets/template/homepage/class-steps-fields.php:150
+msgid "Steps Section Button URL"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:43
+msgid "Enable Testimonial And News section?"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:57
+msgid "Testimonial Title"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:77
+msgid "Testimonial User Image"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:88
+msgid "(OPTIONAL) Testimonial URL LINK"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:97
+msgid "Testimonial User's Name"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:106
+msgid "Testimonial User's Details"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:115
+msgid "Testimonial"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:127
+msgid "News Title"
+msgstr ""
+
+#: assets/template/homepage/class-tandn-fields.php:138
+msgid "News Button Text"
+msgstr ""
+
+#: assets/template/rental/favorite/class-vr-rental-favorite-meta.php:59, assets/template/rental/list/class-vr-rental-list-meta.php:129, assets/template/rental/search/class-vr-rental-search-meta.php:58
+msgid "Summary"
+msgstr ""
+
+#: assets/template/rental/favorite/class-vr-rental-favorite-meta.php:73, assets/template/rental/list/class-vr-rental-list-meta.php:143
+msgid "Header Background Image"
+msgstr ""
+
+#: assets/template/rental/favorite/class-vr-rental-favorite-meta.php:74, assets/template/rental/list/class-vr-rental-list-meta.php:144
+msgid "Consult the documentation for required image size."
+msgstr ""
+
+#: assets/template/rental/favorite/class-vr-rental-favorite-meta.php:81, assets/template/rental/list/class-vr-rental-list-meta.php:157, assets/template/rental/search/class-vr-rental-search-meta.php:72
+msgid "Descripton"
+msgstr ""
+
+#: assets/template/rental/favorite/class-vr-rental-favorite-meta.php:82
+msgid "Explore your favorite vacation rentals."
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:165
+msgid "Rental List"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:178
+msgid "Number of Rentals Per Page"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:188
+msgid "Order Rentals By"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:191
+msgid "Date Recent to Old"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:192
+msgid "Date Old to Recent"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:193
+msgid "Price Low to High"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:194
+msgid "Price High to Low"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:203
+msgid "Minimum Beds"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:213
+msgid "Minimum Baths"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:223
+msgid "Minimum Guests"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:233
+msgid "Minimum Price"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:242
+msgid "Maximum Price"
+msgstr ""
+
+#: assets/template/rental/list/class-vr-rental-list-meta.php:261
+msgid "Feature"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:73
+msgid "Find the best bread and breakfast place."
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:80
+msgid "Sortby Text"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:81
+msgid "Sort By"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:90
+msgid "Rental Search"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:105
+msgid "Hide Map?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:106
+msgid "Check to hide Map on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:114
+msgid "Hide Destination?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:115
+msgid "Check to hide Destination on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:123
+msgid "Hide Type?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:124
+msgid "Check to hide Type on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:132
+msgid "Hide Feature?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:133
+msgid "Check to hide Feature on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:141
+msgid "Hide Check In & Check Out?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:142
+msgid "Check to hide Check In & Check Out? on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:150
+msgid "Hide Description?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:151
+msgid "Check to hide Description? on this search page?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:159
+msgid "Hide Sorting?"
+msgstr ""
+
+#: assets/template/rental/search/class-vr-rental-search-meta.php:160
+msgid "Check to hide Sorting? on this search page?"
+msgstr ""
