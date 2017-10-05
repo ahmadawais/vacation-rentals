@@ -1,5 +1,5 @@
-# VRCore
-[Work in progress!] Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features.
+# VRCore [Work in progress!] 
+Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features. [Documentation →](http://documentation.wpvacationrentals.com/)
 
 ![](https://i.imgur.com/hV31YF3.png)
 ![image](https://i.imgur.com/KLCnYOM.png)![image](https://i.imgur.com/0RP1qxJ.png)
@@ -22,3 +22,4 @@ Let's assume we are building a functionality called `feature`
 - File: `feature-custom` a custom class for a sub-feature
 - File: `class-feature-meta-boxes` class for related meta boxes
 
+Copyright Ahmad Awais | WPTie | WGA.
