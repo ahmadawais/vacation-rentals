@@ -3,7 +3,7 @@
  * Plugin Name: Vacation Rentals Core
  * Plugin URI: http://WPTie.com/
  * Description: Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features.
- * Author: mrahmadawais, WPTie
+ * Author: mrahmadawais, maedahbatool, WPTie
  * Author URI: http://WPTie.com/
  * Text Domain: VR
  * Version: 1.0.0
