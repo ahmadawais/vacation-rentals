@@ -3,7 +3,7 @@ Contributors: mrahmadawais, wptie
 Donate link: http://AhmadAwais.com/
 Tags: vacation, rentals, VacationRentals, Bread and Breakfast, Rent, property, rental search, booking, membership, check in, check out
 Requires at least: 1.0.0
-Tested up to: 4.8.0
+Tested up to: 5.0.0
 Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
