@@ -1,4 +1,6 @@
 # VRCore [Work in progress!] 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/vacation-rentals.svg)](https://greenkeeper.io/)
 Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features. [Documentation →](http://documentation.wpvacationrentals.com/)
 
 ![](https://i.imgur.com/hV31YF3.png)
