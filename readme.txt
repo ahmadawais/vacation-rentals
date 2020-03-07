@@ -1,6 +1,6 @@
 === Vacation Rentals ===
 Contributors: mrahmadawais, maedahbatool, wptie
-Donate link: http://AhmadAwais.com/
+Donate link: https://AhmadAwais.com/
 Tags: vacation, rentals, VacationRentals, Bread and Breakfast, Rent, property, rental search, booking, membership, check in, check out
 Requires at least: 4.0.0
 Tested up to: 5.4.0

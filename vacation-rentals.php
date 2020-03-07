@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Vacation Rentals Core
- * Plugin URI: http://WPTie.com/
+ * Plugin URI: https://AhmadAwais.com/
  * Description: Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features.
- * Author: mrahmadawais, maedahbatool, WPTie
- * Author URI: http://WPTie.com/
+ * Author: Author: TheDevCouple (Awais & Maedah)
+ * Author URI: https://AhmadAwais.com/
  * Text Domain: VR
  * Version: 1.1.0
  * License: GPL v2+
@@ -81,4 +81,4 @@ add_action( 'plugins_loaded', 'vr_load_plugin_textdomain' );
 /**
  * Main File.
  */
-require_once( VRC_DIR . '/assets/vrc-init.php' );
+require_once VRC_DIR . '/assets/vrc-init.php';
