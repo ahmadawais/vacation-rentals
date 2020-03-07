@@ -31,7 +31,19 @@ Yes, we are about to release a theme that is supported by this plugin. Kindly, b
 
 == Screenshots ==
 
-1. Vacation Rentals with custom tables.
+1. Vacation Rentals.
+
+2. Vacation Rentals.
+
+3. Vacation Rentals.
+
+4. Vacation Rentals.
+
+5. Vacation Rentals.
+
+6. Vacation Rentals.
+
+7. Vacation Rentals.
 
 == Changelog ==
 
