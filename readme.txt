@@ -4,7 +4,7 @@ Donate link: https://AhmadAwais.com/
 Tags: vacation, rentals, VacationRentals, Bread and Breakfast, Rent, property, rental search, booking, membership, check in, check out
 Requires at least: 4.0.0
 Tested up to: 5.4.0
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
