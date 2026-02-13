@@ -1,4 +1,4 @@
-# VRCore [Work in progress!] 
+# VRCore 
 Add vacation rentals to your WordPress site with membership, agents, partners, search, and frontend booking features. [Documentation →](https://docs-wpvr.ahmadawais.com/)
 
 ![](https://i.imgur.com/hV31YF3.png)
